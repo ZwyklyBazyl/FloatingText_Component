@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\FloatingText\FloatingText\obj\Debug\FloatingText.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\FloatingText\FloatingText\obj\Debug\FloatingText.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\FloatingText\FloatingText\bin\Debug\FloatingText.dll
+C:\Users\pc\source\repos\FloatingText\FloatingText\bin\Debug\FloatingText.pdb
+C:\Users\pc\source\repos\FloatingText\FloatingText\obj\Debug\FloatingText.dll
+C:\Users\pc\source\repos\FloatingText\FloatingText\obj\Debug\FloatingText.pdb
+C:\Users\pc\source\repos\FloatingText\FloatingText\obj\Debug\FloatingText.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\FloatingText\FloatingText\obj\Debug\FloatingText.MovingText.resources
