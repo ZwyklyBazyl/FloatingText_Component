@@ -17,7 +17,7 @@ namespace FloatingText
         public MovingText()
         {
             InitializeComponent();
-            label1.Text = "Zostań w domu!";
+            label1.Text = "ZOSTAŃ W DOMU";
             label1.Font = new Font(" ", 22, FontStyle.Bold);
             timer1.Interval = 1;
             timer1.Start();
