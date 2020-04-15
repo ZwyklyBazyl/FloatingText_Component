@@ -14,3 +14,11 @@ C:\Users\pc\source\repos\Text\FloatingText_Component\FloatingText\obj\Debug\Floa
 C:\Users\pc\source\repos\Text\FloatingText_Component\FloatingText\obj\Debug\FloatingText.csproj.CoreCompileInputs.cache
 C:\Users\pc\source\repos\Text\FloatingText_Component\FloatingText\obj\Debug\FloatingText.dll
 C:\Users\pc\source\repos\Text\FloatingText_Component\FloatingText\obj\Debug\FloatingText.pdb
+C:\Users\pc\source\repos\Text\FloatingText_Component\Floating Text Component\FloatingText\bin\Debug\FloatingText.dll
+C:\Users\pc\source\repos\Text\FloatingText_Component\Floating Text Component\FloatingText\bin\Debug\FloatingText.pdb
+C:\Users\pc\source\repos\Text\FloatingText_Component\Floating Text Component\FloatingText\obj\Debug\FloatingText.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Text\FloatingText_Component\Floating Text Component\FloatingText\obj\Debug\FloatingText.MovingText.resources
+C:\Users\pc\source\repos\Text\FloatingText_Component\Floating Text Component\FloatingText\obj\Debug\FloatingText.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Text\FloatingText_Component\Floating Text Component\FloatingText\obj\Debug\FloatingText.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Text\FloatingText_Component\Floating Text Component\FloatingText\obj\Debug\FloatingText.dll
+C:\Users\pc\source\repos\Text\FloatingText_Component\Floating Text Component\FloatingText\obj\Debug\FloatingText.pdb
